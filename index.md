@@ -5,3 +5,4 @@ Anthony Edward Stark is a fictional character portrayed by Robert Downey Jr. in 
 * cooler
 * am coolsten
 > I am Iron Man
+<img src="https://cdn.businessinsider.de/wp-content/uploads/2019/10/tony-stark-header.jpg"/>
